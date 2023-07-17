@@ -19,3 +19,5 @@ public class Solution {
 		return count<=1;
 	}
 }
+
+//solution link-https://www.codingninjas.com/studio/problems/non-decreasing-array_699920?utm_source=youtube&utm_medium=affiliate&utm_campaign=parikh_youtube&leftPanelTab=1
